@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-finder-app/static/css/main.003cf129.css",
+    "main.js": "/movie-finder-app/static/js/main.dd172d05.js",
+    "static/js/453.ed3810f9.chunk.js": "/movie-finder-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/movie-finder-app/index.html",
+    "main.003cf129.css.map": "/movie-finder-app/static/css/main.003cf129.css.map",
+    "main.dd172d05.js.map": "/movie-finder-app/static/js/main.dd172d05.js.map",
+    "453.ed3810f9.chunk.js.map": "/movie-finder-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.003cf129.css",
+    "static/js/main.dd172d05.js"
+  ]
+}
