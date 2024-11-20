@@ -1,0 +1,28 @@
+.container {
+    padding : 20px;
+    text-align: center;
+}
+
+.toggle-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+
+.satus {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.container.on .toggle-button{
+    background-color: #4caf50;
+    color: white;
+}
+
+.container.off .toggle-button {
+    background-color: #f44336;
+    color: white;
+}

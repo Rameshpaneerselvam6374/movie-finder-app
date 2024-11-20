@@ -1,0 +1,21 @@
+/* Global Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* colors */
+
+  :root {
+    --primary-color:#030926;
+    --secondary-color:  #180763;
+  }
+  
+  body {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 20px;
+  }
